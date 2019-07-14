@@ -1,5 +1,5 @@
 # NuaSeva
-A trinary light code organization, the new service model for distributed sole enterprise ecosystems. 
+A trinary light code association, the new service model for distributed sole enterprise ecosystems. 
 
 Nuaseva Golden Scroll v.1
 
