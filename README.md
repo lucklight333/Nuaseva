@@ -3,7 +3,7 @@ A trinary light code association, the new service model for distributed sole ent
 
 Nuaseva Golden Scroll v.1
 
-“New services for the new age.”
+“New services, for the new age.”
 
 Content:
 0. Abstract
