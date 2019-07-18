@@ -64,7 +64,7 @@ PROE hApp credit will be a portal to Holochain cryptos and redemption.
 PAYO electronic currency will be a portal to local fiat in 200+ countries.
 
 Private ledger cryptos:
-XVG will be an anonymous portal to a large network of international services.
+EUNO will be an anonymous portal to a large network of international services.
 CCX will be an anonymous portal to interest bearing accounts.
 LTHN will be an anonymous portal to vpn use.
 
