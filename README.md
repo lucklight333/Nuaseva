@@ -16,7 +16,7 @@ Content:
 
 0. Abstract
 
-Intention to develop universal standard best practices for right human relations pertaining to commercial exchange, voluntary action and wealth creation. For scaling humanity to 50 billion people without destroying the environment or losing aurrr collective morality, ethics and honor in the process. To globally create financial freedom, well being and unlimited abundance for all, regardless of any traditional differentiating factors.
+Intention to develop universal standard best practices for right human relations pertaining to commercial exchange, voluntary action and wealth creation. For scaling humanity to 12 billion people without destroying the environment or losing aurrr collective morality, ethics and honor in the process. To globally create financial freedom, well being and unlimited abundance for all, regardless of any traditional differentiating factors.
 
 1. Here &amp; Now
 
@@ -53,20 +53,18 @@ I have designed Nuaseva to utilize all solutions I have found in my lifetime of 
 
 I have created Nuaseva(PROE) erc20 token to account for the value of the Nuaseva Community. I am cultivating this community based on my experience with human nature as it relates to natural laws pertaining to equality and universal principles of integrity, volunteering and wealth. This becomes possible for all when true value and creativity reach consensus.
 
-PROE(pasture raised organic eggs) erc20 token will be a renewable resource pegged impact crypto with blockchain market determined prices that will grow with community over time. PROE a Holochain impact crypto credit accounting system will be pegged to the local market rate of 12 pasture raised eggs plus 20% to cover liquidation costs. It will always cost 120 PROE credits for a dozen pasture raised organic eggs or 60 organic quail eggs. PROE erc20 will swap to PROE hApp at a minimum of 1b1 ratio, with no maximum limit on how high the erc20 could rise in value based on the unlimited value of an ever growing community of sole enterprise Holonteers. I will develop international local cooperatives that will source these premium quality eggs locally and accept PROE hApp credits for them. Market flux in PROE erc20 will generate market activity that will contribute to impacting
+PROE(pasture raised organic eggs) erc20 token will be a renewable resource pegged impact crypto with blockchain market determined prices that will grow with community over time. PROSE a Holochain impact crypto credit accounting system will be pegged to the local market rate of pasture raised eggs plus 20% to cover liquidation costs. It will always cost 120 PROE credits for a dozen pasture raised organic eggs or two dozen organic quail eggs. PROE erc20 will swap to PROE hApp at a minimum of 1b1 ratio, with no maximum limit on how high the erc20 could rise in value based on the unlimited value of an ever growing community of sole enterprise Holonteers. I will develop international local cooperatives that will source these premium quality eggs locally and accept PROSE hApp credits for them. Market flux in PROE erc20 will generate market activity that will contribute to impacting
 organic chicken or quail egg back yard and larger scale producers in beneficial ways.
 
-PROE hApp credits being market stable will preserve purchasing power against national currency inflation and allow for overbought and oversold market conditions to be navigated to maintain liquidity for all. A total of six decentralized ninja pools will be available on the dApp and hApp for all.
+PROSE hApp credits being market stable will preserve purchasing power against national currency inflation and allow for overbought and oversold market conditions to be navigated to maintain liquidity for all. A total of four decentralized ninja pools will be available on the dApp and hApp for all.
 
 Public ledger cryptos:
 PROE erc20 token will be the portal to blockchain cryptos.
-PROE hApp credit will be a portal to Holochain cryptos and redemption.
+PROSE hApp credit will be a portal to Holochain cryptos and redemption.
 PAYO electronic currency will be a portal to local fiat in 200+ countries.
 
 Private ledger cryptos:
 EUNO will be an anonymous portal to a large network of international services.
-CCX will be an anonymous portal to interest bearing accounts.
-LTHN will be an anonymous portal to vpn use.
 
 These pools will be managed by ninja bots using sha3 cryptography.
 Each swap will take place between users of the dApp and hApp pool stats will be public. The ninja bots will serve as escrow agents overseeing each exchange for validity and ensure security is maintained eternally.
@@ -74,7 +72,7 @@ Each swap will take place between users of the dApp and hApp pool stats will be 
 6. Ninja Seal
 
 This Nuaseva Golden Scroll, I claim this original process that is my lifeʼs work. Nuaseva(ninja unincorporated association, sole enterprise, value abundance) is an acronym for the principles that embody my creation, composed of three parts, that will be their own apps utilizing PROE. The first is Holonteer, where the whole and the part meet in common voluntary action to build oneʼs wealth by contributing to the benefit of community. The second is Valux where trust is built between users based on their mutual interests being honored by escrow ninja bots, that can be adjusted by each user based on their history of deals with particular individuals. The last will be Abundance my loyalty and marketing system where wealth is truly generated with equanimity for all regardless of
-status, entry time or location. These three under the brand of Nuaseva I claim as my creations, creations that are unique to fulfill international solutions to help humanity scale based on the non existence of these systems and processes being currently unavailable until I create them. This document when made public is proof of my claim to this work, that will be fully perfected and registered using the Creafree Standard on the Creabook dApp.
+status, entry time or location. These three under the brand of Nuaseva I claim as my creations, creations that are unique to fulfill international solutions to help humanity scale based on the non existence of these systems and processes being currently unavailable until I create them. This document when made public is proof of my claim to this work.
 
 Many may not be able to imagine systems that will allow complete financial freedom, less isolation and much more hope than we have currently ever known as a species. I have been creating such systems for the past 20 years.The effects of these programs I take full responsibility for as I have tested them all extensively and found them efficient and effective to cultivate maximum freedom for all to improve their lives using principles of light code, the upward spiral and the spiritual sovereignty of all life. I claim that these methods are unique and not currently being used anywhere on this planet due to societal conflicts with natural law and the ongoing fraud against humanity. International societal normalcy in the modern day is the antithesis of what we have all been taught is real, because
 we have been given only half the picture and been told it was whole by all current educational systems. We are taught to resist solutions, deny possibilities and conform to the limitations of others. This is the madness we need to clear up with collective consensus if we aurrr to scale in alignment with natural law.
@@ -119,14 +117,9 @@ I seal this scrolls intent with my word and honor as a sovereign spirit,
 
 Luck Light http://luckdalight.freshdesk.com
 
-Montara, California
+Reno, Nevada
 
-Founder & CEO for Nuaseva http://opencollective.com/nuaseva
-
-CTO for International Creations Fund http://creafree.org
+Founder & CEO for Nuaseva Collective http://opencollective.com/nuaseva
 
 On Minds, Telegram, Facebook &amp; LinkedIn @lucklight
 http://t.me/LLwithLL
-
-(Inspired in the format of expression of the Creafree Standard
-in preparation for being published as a Creabook.)
